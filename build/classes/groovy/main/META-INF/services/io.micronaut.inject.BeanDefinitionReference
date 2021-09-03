@@ -1,0 +1,3 @@
+core.exchangerate.services.$ExchangeRateService$Definition$Reference
+core.exchangerate.jobs.$ExchangeRate$Definition$Reference
+core.exchangerate.$ExchangeRateQueue$Intercepted$Definition$Reference
